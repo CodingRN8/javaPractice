@@ -60,6 +60,6 @@ public class dayFour {
     public static void main(String[]args)
     {
     Greaterno();
-        
+        int s;
     }
 }
